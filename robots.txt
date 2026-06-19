@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://lausleip.github.io/china-pc28-com/sitemap.xml
